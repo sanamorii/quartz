@@ -1,6 +1,6 @@
 # Quartz v4
 
-**This is a personal fork of [jzhao's quartz]((https://quartz.jzhao.xyz/). Please use the original version :)**
+**This is a personal fork of** [jzhao's quartz]((https://quartz.jzhao.xyz)**. Please use the original version :)**
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
